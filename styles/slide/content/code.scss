@@ -22,13 +22,23 @@ pre {
 
 	code {
 
+	        font-size: 80%;
+		padding-left: 1em;
+		padding-right: 1em;
+		border-style: solid;
+		border-left-width: 1em;
+		border-top-width: thin;
+		border-right-width: thin;
+		border-bottom-width: thin;
+		border-color: #95ABD0;
+		color: #00428C;
+		background-color: #E4E5E7;
+
 		display:block;
-		margin-left:-100px;
-		padding:0 0 0 100px;
-		width:calc(100% + 100px + 100px);
+		margin-left:-50px;
+		width:calc(100% + 50px + 50px);
 		border-radius:0;
-		background:none;
-		line-height:2;
+		line-height:1.2;
 		white-space:pre;
 		tab-size:4;
 

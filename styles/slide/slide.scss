@@ -22,16 +22,11 @@
 
 	&::after {
 		position:absolute;
-		top:0;
-		right:100px;
-		padding-top:15px;
-		width:50px;
-		height:100px;
-		background:url(../images/ribbon.svg) no-repeat;
-		color:#FFF;
+		right:96px;
+		bottom:48px;
+		color:$black;
 		counter-increment:slide;
 		content:counter(slide);
-		text-align:center;
 		}
 
 	// Content
@@ -56,7 +51,6 @@
 
 	@import
 		'elements/double',
-		'elements/shout',
 		'elements/cover',
 		'elements/place';
 

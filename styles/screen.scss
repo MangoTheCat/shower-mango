@@ -22,12 +22,16 @@
 	'slide/slide',
 	'progress/progress',
 	'badge/badge',
-	'region/region';
+	'region/region',
+	'titlepage/titlepage',
+	'background/background',
+	'shout/shout';
 
 // Modes
 
 @media screen {
 	@import
 		'shower/shower-list',
-		'shower/shower-full';
+		'shower/shower-full',
+		'shout/shout-full';
 	}
