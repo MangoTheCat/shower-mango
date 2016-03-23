@@ -1,24 +1,23 @@
 {
-  "name": "shower-ribbon",
-  "description": "Ribbon theme for Shower HTML presentation engine",
-  "version": "2.0.5",
+  "name": "shower-mango",
+  "description": "Mango theme for Shower HTML presentation engine",
+  "version": "3.0.0",
   "author": {
-    "name": "Vadim Makeev",
-    "url": "http://pepelsbey.net/"
+      "name": "Gabor Csardi"
   },
-  "homepage": "https://github.com/shower/ribbon",
+  "homepage": "https://github.com/mangothecat/shower-mango",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shower/ribbon.git"
+    "url": "git://github.com/mangothecat/shower-mango.git"
   },
   "bugs": {
-    "url": "http://github.com/shower/shower/issues"
+    "url": "http://github.com/mangothecat/shower-mango/issues"
   },
   "license": "MIT",
   "keywords": [
     "shower",
     "presentation",
-    "ribbon",
+    "mango solutions",
     "theme"
   ],
   "files": [
