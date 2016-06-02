@@ -15,8 +15,13 @@
 	text-align: right;
 	position: absolute;
 	right: 30px;
-        top: 30px;
-	width: 50%;
+        top: 20px;
+	width: 60%;
+	font-size: 50px;
+	font-weight: 700;
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: $grey;
+	line-height: 1;
 	}
 
 // Author
@@ -25,9 +30,10 @@
 	text-align: right;
 	position: absolute;
 	right: 50px;
-	bottom: 35px;
+	bottom: 10px;
 	line-height: 1.2;
 	width: 90%;
+	font-size: 34px;
 	color: $white;
 	}
 
